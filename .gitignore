@@ -1,0 +1,4 @@
+/experiment/**/checkpoint/**
+/DATA
+/pretrain_model
+/.vscode

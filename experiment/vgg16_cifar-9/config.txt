@@ -1,0 +1,40 @@
+2021-03-06-19:51:21
+
+split_optimizer: False
+warm_up: False
+gpus: [1]
+data_set: cifar10
+data_path: ./DATA/
+job_dir: ./experiment/vgg16_cifar
+reset: True
+resume: None
+refine: None
+arch: vgg_cifar
+cfg: vgg16
+num_epochs: 150
+train_batch_size: 256
+eval_batch_size: 256
+momentum: 0.9
+lr: 0.1
+lr_decay_step: [75, 112]
+weight_decay: 0.0001
+random_rule: l1_pretrain
+test_only: False
+pso_model: ./pretrain_model/vgg16_cifar10.pt
+calfitness_epoch: 2
+max_cycle: 30
+max_preserve: 9
+partical_number: 10
+partical_dimension: 13
+rescale_factor: 1
+max_vel: 2
+pso_inertia: [0.9, 0.4]
+best_partical: [9, 9, 9, 5, 5, 8, 7, 9, 3, 6, 9, 5, 1]
+partical_change_num: 8
+individual_factor: 1.2
+global_factor: 1.5
+FLOPs_ratio: 0.5
+parms_ratio: 0.5
+pase_enable: False
+approcimate_rate: 0.2
+

@@ -1,0 +1,650 @@
+03/12 10:39:45 AM | Test Loss 0.3149	Accurary 93.02%		Time 1.19s
+
+03/12 10:40:37 AM | Test Loss 0.3149	Accurary 93.02%		Time 1.12s
+
+03/12 10:41:06 AM | Partical Source fintness 13.35%		train accuracy 12.82%		Time 2.76s
+
+03/12 10:41:06 AM | Search Cycle [0]	 Best partical Source [5, 8, 5, 2, 7, 2, 2, 7, 9, 5, 6, 1, 8]	Best partical Source fitness 13.35%	Time 28.50s
+
+03/12 10:41:40 AM | Partical Source fintness 10.34%		train accuracy 9.60%		Time 2.78s
+
+03/12 10:41:40 AM | Search Cycle [1]	 Best partical Source [5, 8, 5, 2, 7, 2, 2, 7, 9, 5, 6, 1, 8]	Best partical Source fitness 13.35%	Time 33.94s
+
+03/12 10:41:58 AM | Partical Source fintness 10.87%		train accuracy 10.30%		Time 2.78s
+
+03/12 10:41:58 AM | Search Cycle [2]	 Best partical Source [5, 8, 5, 2, 7, 2, 2, 7, 9, 5, 6, 1, 8]	Best partical Source fitness 13.35%	Time 18.47s
+
+03/12 10:42:54 AM | Test Loss 0.3149	Accurary 93.02%		Time 1.11s
+
+03/12 10:43:19 AM | Partical Source fintness 8.93%		train accuracy 8.69%		Time 2.85s
+
+03/12 10:43:19 AM | Search Cycle [0]	 Best partical Source [5, 4, 4, 2, 1, 9, 1, 6, 6, 2, 8, 7, 3]	Best partical Source fitness 8.93%	Time 25.32s
+
+03/12 10:43:45 AM | Partical Source fintness 6.42%		train accuracy 6.56%		Time 2.84s
+
+03/12 10:43:45 AM | Search Cycle [1]	 Best partical Source [5, 4, 4, 2, 1, 9, 1, 6, 6, 2, 8, 7, 3]	Best partical Source fitness 8.93%	Time 26.00s
+
+03/12 10:44:20 AM | Partical Source fintness 12.76%		train accuracy 12.23%		Time 2.79s
+
+03/12 10:44:20 AM | Search Cycle [2]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 34.38s
+
+03/12 10:44:47 AM | Partical Source fintness 10.01%		train accuracy 9.70%		Time 2.84s
+
+03/12 10:44:47 AM | Search Cycle [3]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 27.72s
+
+03/12 10:45:17 AM | Partical Source fintness 9.94%		train accuracy 9.74%		Time 2.74s
+
+03/12 10:45:17 AM | Search Cycle [4]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 29.48s
+
+03/12 10:45:42 AM | Partical Source fintness 7.20%		train accuracy 8.30%		Time 2.76s
+
+03/12 10:45:42 AM | Search Cycle [5]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 25.57s
+
+03/12 10:46:15 AM | Partical Source fintness 8.37%		train accuracy 9.24%		Time 2.88s
+
+03/12 10:46:15 AM | Search Cycle [6]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 32.50s
+
+03/12 10:46:37 AM | Partical Source fintness 9.81%		train accuracy 10.02%		Time 2.82s
+
+03/12 10:46:37 AM | Search Cycle [7]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 22.12s
+
+03/12 10:47:17 AM | Partical Source fintness 4.20%		train accuracy 4.44%		Time 2.92s
+
+03/12 10:47:17 AM | Search Cycle [8]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 39.63s
+
+03/12 10:47:44 AM | Partical Source fintness 11.54%		train accuracy 11.73%		Time 2.76s
+
+03/12 10:47:44 AM | Search Cycle [9]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 27.01s
+
+03/12 10:48:11 AM | Partical Source fintness 11.43%		train accuracy 11.18%		Time 2.81s
+
+03/12 10:48:11 AM | Search Cycle [10]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 27.78s
+
+03/12 10:48:36 AM | Partical Source fintness 10.72%		train accuracy 9.65%		Time 2.82s
+
+03/12 10:48:36 AM | Search Cycle [11]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 24.11s
+
+03/12 10:49:04 AM | Partical Source fintness 10.11%		train accuracy 10.16%		Time 2.75s
+
+03/12 10:49:04 AM | Search Cycle [12]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 28.57s
+
+03/12 10:49:27 AM | Partical Source fintness 9.71%		train accuracy 9.92%		Time 2.83s
+
+03/12 10:49:27 AM | Search Cycle [13]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 22.83s
+
+03/12 10:49:53 AM | Partical Source fintness 10.55%		train accuracy 9.45%		Time 2.84s
+
+03/12 10:49:53 AM | Search Cycle [14]	 Best partical Source [2, 4, 7, 7, 7, 5, 6, 5, 9, 4, 5, 9, 8]	Best partical Source fitness 12.76%	Time 25.80s
+
+03/12 10:50:20 AM | Partical Source fintness 12.82%		train accuracy 12.46%		Time 2.90s
+
+03/12 10:50:20 AM | Search Cycle [15]	 Best partical Source [7, 2, 1, 3, 9, 8, 7, 2, 6, 8, 5, 7, 2]	Best partical Source fitness 12.82%	Time 27.52s
+
+03/12 10:50:54 AM | Partical Source fintness 13.31%		train accuracy 12.93%		Time 2.80s
+
+03/12 10:50:54 AM | Search Cycle [16]	 Best partical Source [8, 4, 2, 4, 8, 8, 8, 4, 9, 7, 5, 8, 4]	Best partical Source fitness 13.31%	Time 33.53s
+
+03/12 10:51:22 AM | Partical Source fintness 7.29%		train accuracy 7.10%		Time 2.80s
+
+03/12 10:51:22 AM | Search Cycle [17]	 Best partical Source [8, 4, 2, 4, 8, 8, 8, 4, 9, 7, 5, 8, 4]	Best partical Source fitness 13.31%	Time 27.91s
+
+03/12 10:51:46 AM | Partical Source fintness 9.65%		train accuracy 12.02%		Time 2.77s
+
+03/12 10:51:46 AM | Search Cycle [18]	 Best partical Source [8, 4, 2, 4, 8, 8, 8, 4, 9, 7, 5, 8, 4]	Best partical Source fitness 13.31%	Time 23.85s
+
+03/12 10:52:02 AM | Partical Source fintness 8.10%		train accuracy 7.87%		Time 2.70s
+
+03/12 10:52:02 AM | Search Cycle [19]	 Best partical Source [8, 4, 2, 4, 8, 8, 8, 4, 9, 7, 5, 8, 4]	Best partical Source fitness 13.31%	Time 16.85s
+
+03/12 10:52:26 AM | Partical Source fintness 13.57%		train accuracy 13.03%		Time 2.82s
+
+03/12 10:52:26 AM | Search Cycle [20]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 23.64s
+
+03/12 10:52:46 AM | Partical Source fintness 11.90%		train accuracy 12.36%		Time 2.98s
+
+03/12 10:52:46 AM | Search Cycle [21]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 20.32s
+
+03/12 10:53:05 AM | Partical Source fintness 10.69%		train accuracy 10.97%		Time 2.91s
+
+03/12 10:53:05 AM | Search Cycle [22]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 18.49s
+
+03/12 10:53:30 AM | Partical Source fintness 9.61%		train accuracy 10.30%		Time 2.79s
+
+03/12 10:53:30 AM | Search Cycle [23]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 24.89s
+
+03/12 10:53:48 AM | Partical Source fintness 10.07%		train accuracy 11.63%		Time 2.85s
+
+03/12 10:53:48 AM | Search Cycle [24]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 18.38s
+
+03/12 10:54:06 AM | Partical Source fintness 10.23%		train accuracy 10.54%		Time 2.91s
+
+03/12 10:54:06 AM | Search Cycle [25]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 18.35s
+
+03/12 10:54:38 AM | Partical Source fintness 8.40%		train accuracy 11.02%		Time 2.96s
+
+03/12 10:54:38 AM | Search Cycle [26]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 31.35s
+
+03/12 10:55:10 AM | Partical Source fintness 10.71%		train accuracy 9.16%		Time 2.86s
+
+03/12 10:55:10 AM | Search Cycle [27]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 32.37s
+
+03/12 10:55:32 AM | Partical Source fintness 7.86%		train accuracy 8.02%		Time 2.83s
+
+03/12 10:55:32 AM | Search Cycle [28]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 21.40s
+
+03/12 10:55:56 AM | Partical Source fintness 9.41%		train accuracy 8.36%		Time 2.88s
+
+03/12 10:55:56 AM | Search Cycle [29]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 24.77s
+
+03/12 10:56:18 AM | Partical Source fintness 9.30%		train accuracy 9.72%		Time 3.25s
+
+03/12 10:56:18 AM | Search Cycle [30]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 21.47s
+
+03/12 10:56:49 AM | Partical Source fintness 8.26%		train accuracy 8.23%		Time 3.00s
+
+03/12 10:56:49 AM | Search Cycle [31]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 30.94s
+
+03/12 10:57:22 AM | Partical Source fintness 10.48%		train accuracy 9.77%		Time 2.77s
+
+03/12 10:57:22 AM | Search Cycle [32]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 33.71s
+
+03/12 10:57:49 AM | Partical Source fintness 13.57%		train accuracy 14.13%		Time 2.84s
+
+03/12 10:57:49 AM | Search Cycle [33]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 26.44s
+
+03/12 10:58:16 AM | Partical Source fintness 10.28%		train accuracy 10.32%		Time 2.88s
+
+03/12 10:58:16 AM | Search Cycle [34]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 27.30s
+
+03/12 10:58:35 AM | Partical Source fintness 10.33%		train accuracy 8.53%		Time 2.89s
+
+03/12 10:58:35 AM | Search Cycle [35]	 Best partical Source [3, 4, 5, 4, 6, 5, 3, 2, 2, 7, 9, 2, 7]	Best partical Source fitness 13.57%	Time 18.39s
+
+03/12 10:58:58 AM | Partical Source fintness 14.38%		train accuracy 13.87%		Time 2.86s
+
+03/12 10:58:58 AM | Search Cycle [36]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.95s
+
+03/12 10:59:19 AM | Partical Source fintness 11.75%		train accuracy 12.21%		Time 2.87s
+
+03/12 10:59:19 AM | Search Cycle [37]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.08s
+
+03/12 10:59:44 AM | Partical Source fintness 12.42%		train accuracy 11.02%		Time 2.78s
+
+03/12 10:59:44 AM | Search Cycle [38]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 24.92s
+
+03/12 11:00:18 AM | Partical Source fintness 11.65%		train accuracy 12.00%		Time 2.75s
+
+03/12 11:00:18 AM | Search Cycle [39]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 34.61s
+
+03/12 11:00:45 AM | Partical Source fintness 12.10%		train accuracy 12.63%		Time 3.32s
+
+03/12 11:00:45 AM | Search Cycle [40]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.37s
+
+03/12 11:01:13 AM | Partical Source fintness 11.00%		train accuracy 10.62%		Time 2.77s
+
+03/12 11:01:13 AM | Search Cycle [41]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 28.52s
+
+03/12 11:01:42 AM | Partical Source fintness 9.58%		train accuracy 9.39%		Time 2.78s
+
+03/12 11:01:42 AM | Search Cycle [42]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 28.84s
+
+03/12 11:02:13 AM | Partical Source fintness 9.89%		train accuracy 9.22%		Time 2.84s
+
+03/12 11:02:13 AM | Search Cycle [43]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 31.35s
+
+03/12 11:02:42 AM | Partical Source fintness 6.32%		train accuracy 6.13%		Time 2.83s
+
+03/12 11:02:42 AM | Search Cycle [44]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 28.32s
+
+03/12 11:03:03 AM | Partical Source fintness 10.15%		train accuracy 10.55%		Time 2.84s
+
+03/12 11:03:03 AM | Search Cycle [45]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.26s
+
+03/12 11:03:22 AM | Partical Source fintness 9.38%		train accuracy 9.13%		Time 2.76s
+
+03/12 11:03:22 AM | Search Cycle [46]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 19.68s
+
+03/12 11:03:40 AM | Partical Source fintness 9.78%		train accuracy 9.76%		Time 3.16s
+
+03/12 11:03:40 AM | Search Cycle [47]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 17.94s
+
+03/12 11:04:03 AM | Partical Source fintness 11.95%		train accuracy 11.12%		Time 3.01s
+
+03/12 11:04:03 AM | Search Cycle [48]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.57s
+
+03/12 11:04:30 AM | Partical Source fintness 10.22%		train accuracy 9.94%		Time 2.85s
+
+03/12 11:04:30 AM | Search Cycle [49]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 27.12s
+
+03/12 11:04:53 AM | Partical Source fintness 10.87%		train accuracy 10.40%		Time 2.76s
+
+03/12 11:04:53 AM | Search Cycle [50]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.69s
+
+03/12 11:05:17 AM | Partical Source fintness 8.27%		train accuracy 10.05%		Time 2.88s
+
+03/12 11:05:17 AM | Search Cycle [51]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 23.72s
+
+03/12 11:05:42 AM | Partical Source fintness 9.32%		train accuracy 8.79%		Time 2.96s
+
+03/12 11:05:42 AM | Search Cycle [52]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 25.70s
+
+03/12 11:06:03 AM | Partical Source fintness 10.67%		train accuracy 10.39%		Time 2.86s
+
+03/12 11:06:03 AM | Search Cycle [53]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.10s
+
+03/12 11:06:31 AM | Partical Source fintness 11.05%		train accuracy 12.02%		Time 2.76s
+
+03/12 11:06:31 AM | Search Cycle [54]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 27.58s
+
+03/12 11:06:59 AM | Partical Source fintness 11.15%		train accuracy 11.92%		Time 2.82s
+
+03/12 11:06:59 AM | Search Cycle [55]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 27.91s
+
+03/12 11:07:20 AM | Partical Source fintness 10.25%		train accuracy 10.55%		Time 2.76s
+
+03/12 11:07:20 AM | Search Cycle [56]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 20.77s
+
+03/12 11:07:46 AM | Partical Source fintness 10.26%		train accuracy 10.08%		Time 2.77s
+
+03/12 11:07:46 AM | Search Cycle [57]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.18s
+
+03/12 11:08:17 AM | Partical Source fintness 13.00%		train accuracy 11.60%		Time 3.01s
+
+03/12 11:08:17 AM | Search Cycle [58]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 31.70s
+
+03/12 11:08:40 AM | Partical Source fintness 10.04%		train accuracy 9.19%		Time 2.71s
+
+03/12 11:08:40 AM | Search Cycle [59]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 23.00s
+
+03/12 11:09:02 AM | Partical Source fintness 9.69%		train accuracy 10.56%		Time 2.77s
+
+03/12 11:09:02 AM | Search Cycle [60]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.93s
+
+03/12 11:09:24 AM | Partical Source fintness 11.98%		train accuracy 13.12%		Time 2.82s
+
+03/12 11:09:24 AM | Search Cycle [61]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.98s
+
+03/12 11:09:57 AM | Partical Source fintness 10.56%		train accuracy 10.56%		Time 2.97s
+
+03/12 11:09:57 AM | Search Cycle [62]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 32.33s
+
+03/12 11:10:21 AM | Partical Source fintness 6.78%		train accuracy 8.33%		Time 2.86s
+
+03/12 11:10:21 AM | Search Cycle [63]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 24.75s
+
+03/12 11:11:01 AM | Partical Source fintness 9.98%		train accuracy 9.41%		Time 2.91s
+
+03/12 11:11:01 AM | Search Cycle [64]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 39.77s
+
+03/12 11:11:34 AM | Partical Source fintness 13.19%		train accuracy 12.09%		Time 3.09s
+
+03/12 11:11:34 AM | Search Cycle [65]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 33.08s
+
+03/12 11:12:00 AM | Partical Source fintness 9.45%		train accuracy 10.16%		Time 2.88s
+
+03/12 11:12:00 AM | Search Cycle [66]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 25.44s
+
+03/12 11:12:20 AM | Partical Source fintness 11.32%		train accuracy 11.93%		Time 2.78s
+
+03/12 11:12:20 AM | Search Cycle [67]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 20.57s
+
+03/12 11:12:50 AM | Partical Source fintness 10.44%		train accuracy 10.54%		Time 2.87s
+
+03/12 11:12:50 AM | Search Cycle [68]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.67s
+
+03/12 11:13:13 AM | Partical Source fintness 10.17%		train accuracy 9.57%		Time 2.93s
+
+03/12 11:13:13 AM | Search Cycle [69]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.86s
+
+03/12 11:13:43 AM | Partical Source fintness 10.57%		train accuracy 11.46%		Time 2.84s
+
+03/12 11:13:43 AM | Search Cycle [70]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.94s
+
+03/12 11:14:05 AM | Partical Source fintness 7.08%		train accuracy 6.46%		Time 2.78s
+
+03/12 11:14:05 AM | Search Cycle [71]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.78s
+
+03/12 11:14:32 AM | Partical Source fintness 10.41%		train accuracy 8.49%		Time 2.83s
+
+03/12 11:14:32 AM | Search Cycle [72]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 27.52s
+
+03/12 11:14:51 AM | Partical Source fintness 7.82%		train accuracy 7.60%		Time 2.99s
+
+03/12 11:14:51 AM | Search Cycle [73]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 19.15s
+
+03/12 11:15:21 AM | Partical Source fintness 11.04%		train accuracy 11.22%		Time 2.89s
+
+03/12 11:15:21 AM | Search Cycle [74]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.93s
+
+03/12 11:15:46 AM | Partical Source fintness 8.72%		train accuracy 9.65%		Time 2.93s
+
+03/12 11:15:46 AM | Search Cycle [75]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 25.30s
+
+03/12 11:16:13 AM | Partical Source fintness 10.30%		train accuracy 9.86%		Time 2.87s
+
+03/12 11:16:13 AM | Search Cycle [76]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.25s
+
+03/12 11:16:34 AM | Partical Source fintness 13.54%		train accuracy 12.05%		Time 2.98s
+
+03/12 11:16:34 AM | Search Cycle [77]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.50s
+
+03/12 11:17:04 AM | Partical Source fintness 13.30%		train accuracy 12.25%		Time 3.09s
+
+03/12 11:17:04 AM | Search Cycle [78]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.86s
+
+03/12 11:17:30 AM | Partical Source fintness 8.63%		train accuracy 10.72%		Time 2.76s
+
+03/12 11:17:30 AM | Search Cycle [79]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 25.64s
+
+03/12 11:17:54 AM | Partical Source fintness 11.24%		train accuracy 12.06%		Time 2.77s
+
+03/12 11:17:54 AM | Search Cycle [80]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 24.73s
+
+03/12 11:18:21 AM | Partical Source fintness 9.48%		train accuracy 9.78%		Time 2.88s
+
+03/12 11:18:21 AM | Search Cycle [81]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.52s
+
+03/12 11:18:43 AM | Partical Source fintness 6.74%		train accuracy 6.24%		Time 2.99s
+
+03/12 11:18:43 AM | Search Cycle [82]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.55s
+
+03/12 11:18:58 AM | Partical Source fintness 10.99%		train accuracy 9.80%		Time 2.90s
+
+03/12 11:18:58 AM | Search Cycle [83]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 14.96s
+
+03/12 11:19:36 AM | Partical Source fintness 11.22%		train accuracy 10.62%		Time 2.97s
+
+03/12 11:19:36 AM | Search Cycle [84]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 37.37s
+
+03/12 11:19:58 AM | Partical Source fintness 9.70%		train accuracy 10.04%		Time 2.85s
+
+03/12 11:19:58 AM | Search Cycle [85]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 22.38s
+
+03/12 11:20:24 AM | Partical Source fintness 11.63%		train accuracy 11.10%		Time 3.05s
+
+03/12 11:20:24 AM | Search Cycle [86]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.04s
+
+03/12 11:20:51 AM | Partical Source fintness 8.47%		train accuracy 8.32%		Time 2.96s
+
+03/12 11:20:51 AM | Search Cycle [87]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.60s
+
+03/12 11:21:12 AM | Partical Source fintness 10.75%		train accuracy 10.31%		Time 2.80s
+
+03/12 11:21:12 AM | Search Cycle [88]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 20.97s
+
+03/12 11:21:41 AM | Partical Source fintness 10.48%		train accuracy 10.61%		Time 2.90s
+
+03/12 11:21:41 AM | Search Cycle [89]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.33s
+
+03/12 11:22:02 AM | Partical Source fintness 10.37%		train accuracy 10.09%		Time 2.98s
+
+03/12 11:22:02 AM | Search Cycle [90]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 21.24s
+
+03/12 11:22:21 AM | Partical Source fintness 10.68%		train accuracy 11.21%		Time 2.82s
+
+03/12 11:22:21 AM | Search Cycle [91]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 18.49s
+
+03/12 11:22:42 AM | Partical Source fintness 13.60%		train accuracy 13.07%		Time 2.91s
+
+03/12 11:22:42 AM | Search Cycle [92]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 20.74s
+
+03/12 11:23:02 AM | Partical Source fintness 9.78%		train accuracy 10.46%		Time 2.87s
+
+03/12 11:23:02 AM | Search Cycle [93]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 19.91s
+
+03/12 11:23:31 AM | Partical Source fintness 10.22%		train accuracy 10.64%		Time 2.89s
+
+03/12 11:23:31 AM | Search Cycle [94]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 29.67s
+
+03/12 11:23:48 AM | Partical Source fintness 9.69%		train accuracy 9.15%		Time 2.96s
+
+03/12 11:23:48 AM | Search Cycle [95]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 16.95s
+
+03/12 11:24:21 AM | Partical Source fintness 9.57%		train accuracy 9.82%		Time 2.98s
+
+03/12 11:24:21 AM | Search Cycle [96]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 32.51s
+
+03/12 11:24:42 AM | Partical Source fintness 9.83%		train accuracy 10.66%		Time 2.92s
+
+03/12 11:24:42 AM | Search Cycle [97]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 20.98s
+
+03/12 11:25:08 AM | Partical Source fintness 10.96%		train accuracy 11.07%		Time 2.80s
+
+03/12 11:25:08 AM | Search Cycle [98]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 26.40s
+
+03/12 11:25:36 AM | Partical Source fintness 7.21%		train accuracy 6.47%		Time 2.89s
+
+03/12 11:25:36 AM | Search Cycle [99]	 Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time 27.54s
+
+03/12 11:26:06 AM | Partical Source fintness 9.09%		train accuracy 8.34%		Time 2.77s
+
+03/12 11:26:06 AM | Best partical Source [9, 4, 9, 7, 2, 1, 7, 8, 9, 4, 1, 1, 3]	Best partical Source fitness 14.38%	Time Used2592.33s
+
+03/12 11:26:27 AM | Epoch[0] (4864/50000):	Loss 3.0790	Accurary 12.64%		Time 0.95s
+03/12 11:26:28 AM | Epoch[0] (9728/50000):	Loss 2.7370	Accurary 15.02%		Time 0.73s
+03/12 11:26:29 AM | Epoch[0] (14592/50000):	Loss 2.5093	Accurary 16.73%		Time 0.73s
+03/12 11:26:29 AM | Epoch[0] (19456/50000):	Loss 2.3709	Accurary 18.23%		Time 0.76s
+03/12 11:26:30 AM | Epoch[0] (24320/50000):	Loss 2.2786	Accurary 19.62%		Time 0.74s
+03/12 11:26:31 AM | Epoch[0] (29184/50000):	Loss 2.2157	Accurary 20.66%		Time 0.75s
+03/12 11:26:32 AM | Epoch[0] (34048/50000):	Loss 2.1623	Accurary 21.63%		Time 0.72s
+03/12 11:26:32 AM | Epoch[0] (38912/50000):	Loss 2.1197	Accurary 22.65%		Time 0.76s
+03/12 11:26:33 AM | Epoch[0] (43776/50000):	Loss 2.0851	Accurary 23.37%		Time 0.72s
+03/12 11:26:34 AM | Epoch[0] (48640/50000):	Loss 2.0515	Accurary 24.29%		Time 0.71s
+03/12 11:26:35 AM | Test Loss 1.7795	Accurary 31.08%		Time 1.09s
+
+03/12 11:26:36 AM | Epoch[1] (4864/50000):	Loss 1.7044	Accurary 34.06%		Time 0.90s
+03/12 11:26:37 AM | Epoch[1] (9728/50000):	Loss 1.6840	Accurary 34.64%		Time 0.72s
+03/12 11:26:37 AM | Epoch[1] (14592/50000):	Loss 1.6723	Accurary 35.35%		Time 0.74s
+03/12 11:26:38 AM | Epoch[1] (19456/50000):	Loss 1.6575	Accurary 36.01%		Time 0.77s
+03/12 11:26:39 AM | Epoch[1] (24320/50000):	Loss 1.6393	Accurary 36.95%		Time 0.75s
+03/12 11:26:40 AM | Epoch[1] (29184/50000):	Loss 1.6296	Accurary 37.42%		Time 0.70s
+03/12 11:26:40 AM | Epoch[1] (34048/50000):	Loss 1.6162	Accurary 38.07%		Time 0.72s
+03/12 11:26:41 AM | Epoch[1] (38912/50000):	Loss 1.6020	Accurary 38.77%		Time 0.72s
+03/12 11:26:42 AM | Epoch[1] (43776/50000):	Loss 1.5886	Accurary 39.43%		Time 0.70s
+03/12 11:26:43 AM | Epoch[1] (48640/50000):	Loss 1.5719	Accurary 40.22%		Time 0.69s
+03/12 11:26:44 AM | Test Loss 1.4275	Accurary 46.48%		Time 1.12s
+
+03/12 11:26:45 AM | Epoch[2] (4864/50000):	Loss 1.3815	Accurary 49.16%		Time 0.89s
+03/12 11:26:46 AM | Epoch[2] (9728/50000):	Loss 1.3867	Accurary 48.82%		Time 0.74s
+03/12 11:26:46 AM | Epoch[2] (14592/50000):	Loss 1.3730	Accurary 49.31%		Time 0.76s
+03/12 11:26:47 AM | Epoch[2] (19456/50000):	Loss 1.3544	Accurary 50.22%		Time 0.73s
+03/12 11:26:48 AM | Epoch[2] (24320/50000):	Loss 1.3414	Accurary 50.58%		Time 0.76s
+03/12 11:26:49 AM | Epoch[2] (29184/50000):	Loss 1.3326	Accurary 50.89%		Time 0.74s
+03/12 11:26:49 AM | Epoch[2] (34048/50000):	Loss 1.3229	Accurary 51.35%		Time 0.74s
+03/12 11:26:50 AM | Epoch[2] (38912/50000):	Loss 1.3148	Accurary 51.70%		Time 0.74s
+03/12 11:26:51 AM | Epoch[2] (43776/50000):	Loss 1.3052	Accurary 52.13%		Time 0.75s
+03/12 11:26:52 AM | Epoch[2] (48640/50000):	Loss 1.2926	Accurary 52.60%		Time 0.74s
+03/12 11:26:53 AM | Test Loss 1.3091	Accurary 53.41%		Time 1.13s
+
+03/12 11:26:54 AM | Epoch[3] (4864/50000):	Loss 1.1565	Accurary 58.22%		Time 0.91s
+03/12 11:26:55 AM | Epoch[3] (9728/50000):	Loss 1.1523	Accurary 58.59%		Time 0.72s
+03/12 11:26:55 AM | Epoch[3] (14592/50000):	Loss 1.1351	Accurary 59.03%		Time 0.73s
+03/12 11:26:56 AM | Epoch[3] (19456/50000):	Loss 1.1307	Accurary 59.26%		Time 0.73s
+03/12 11:26:57 AM | Epoch[3] (24320/50000):	Loss 1.1213	Accurary 59.61%		Time 0.88s
+03/12 11:26:58 AM | Epoch[3] (29184/50000):	Loss 1.1084	Accurary 60.06%		Time 0.79s
+03/12 11:26:59 AM | Epoch[3] (34048/50000):	Loss 1.0980	Accurary 60.50%		Time 0.75s
+03/12 11:26:59 AM | Epoch[3] (38912/50000):	Loss 1.0861	Accurary 60.95%		Time 0.75s
+03/12 11:27:00 AM | Epoch[3] (43776/50000):	Loss 1.0752	Accurary 61.31%		Time 0.77s
+03/12 11:27:01 AM | Epoch[3] (48640/50000):	Loss 1.0680	Accurary 61.59%		Time 0.76s
+03/12 11:27:02 AM | Test Loss 1.0387	Accurary 62.89%		Time 1.18s
+
+03/12 11:27:03 AM | Epoch[4] (4864/50000):	Loss 0.9775	Accurary 64.82%		Time 1.00s
+03/12 11:27:04 AM | Epoch[4] (9728/50000):	Loss 0.9715	Accurary 65.24%		Time 0.89s
+03/12 11:27:05 AM | Epoch[4] (14592/50000):	Loss 0.9567	Accurary 65.81%		Time 0.83s
+03/12 11:27:06 AM | Epoch[4] (19456/50000):	Loss 0.9548	Accurary 65.93%		Time 0.80s
+03/12 11:27:07 AM | Epoch[4] (24320/50000):	Loss 0.9483	Accurary 66.26%		Time 0.88s
+03/12 11:27:07 AM | Epoch[4] (29184/50000):	Loss 0.9410	Accurary 66.49%		Time 0.80s
+03/12 11:27:08 AM | Epoch[4] (34048/50000):	Loss 0.9320	Accurary 66.81%		Time 0.82s
+03/12 11:27:09 AM | Epoch[4] (38912/50000):	Loss 0.9266	Accurary 67.07%		Time 0.77s
+03/12 11:27:10 AM | Epoch[4] (43776/50000):	Loss 0.9222	Accurary 67.21%		Time 0.74s
+03/12 11:27:11 AM | Epoch[4] (48640/50000):	Loss 0.9188	Accurary 67.32%		Time 0.73s
+03/12 11:27:12 AM | Test Loss 1.0890	Accurary 62.40%		Time 1.09s
+
+03/12 11:27:13 AM | Epoch[5] (4864/50000):	Loss 0.8587	Accurary 68.71%		Time 0.89s
+03/12 11:27:14 AM | Epoch[5] (9728/50000):	Loss 0.8467	Accurary 69.56%		Time 0.74s
+03/12 11:27:14 AM | Epoch[5] (14592/50000):	Loss 0.8427	Accurary 69.81%		Time 0.75s
+03/12 11:27:15 AM | Epoch[5] (19456/50000):	Loss 0.8335	Accurary 70.31%		Time 0.78s
+03/12 11:27:16 AM | Epoch[5] (24320/50000):	Loss 0.8292	Accurary 70.55%		Time 0.72s
+03/12 11:27:16 AM | Epoch[5] (29184/50000):	Loss 0.8284	Accurary 70.64%		Time 0.74s
+03/12 11:27:17 AM | Epoch[5] (34048/50000):	Loss 0.8238	Accurary 70.89%		Time 0.73s
+03/12 11:27:18 AM | Epoch[5] (38912/50000):	Loss 0.8185	Accurary 71.11%		Time 0.74s
+03/12 11:27:19 AM | Epoch[5] (43776/50000):	Loss 0.8126	Accurary 71.38%		Time 0.70s
+03/12 11:27:19 AM | Epoch[5] (48640/50000):	Loss 0.8097	Accurary 71.49%		Time 0.73s
+03/12 11:27:21 AM | Test Loss 0.8969	Accurary 68.29%		Time 1.10s
+
+03/12 11:27:22 AM | Epoch[6] (4864/50000):	Loss 0.7510	Accurary 73.81%		Time 0.90s
+03/12 11:27:22 AM | Epoch[6] (9728/50000):	Loss 0.7500	Accurary 73.72%		Time 0.69s
+03/12 11:27:23 AM | Epoch[6] (14592/50000):	Loss 0.7426	Accurary 73.86%		Time 0.71s
+03/12 11:27:24 AM | Epoch[6] (19456/50000):	Loss 0.7425	Accurary 73.94%		Time 0.75s
+03/12 11:27:25 AM | Epoch[6] (24320/50000):	Loss 0.7409	Accurary 74.06%		Time 0.70s
+03/12 11:27:25 AM | Epoch[6] (29184/50000):	Loss 0.7392	Accurary 74.26%		Time 0.73s
+03/12 11:27:26 AM | Epoch[6] (34048/50000):	Loss 0.7379	Accurary 74.26%		Time 0.75s
+03/12 11:27:27 AM | Epoch[6] (38912/50000):	Loss 0.7336	Accurary 74.42%		Time 0.70s
+03/12 11:27:27 AM | Epoch[6] (43776/50000):	Loss 0.7329	Accurary 74.39%		Time 0.72s
+03/12 11:27:28 AM | Epoch[6] (48640/50000):	Loss 0.7281	Accurary 74.56%		Time 0.74s
+03/12 11:27:30 AM | Test Loss 0.7655	Accurary 73.91%		Time 1.16s
+
+03/12 11:27:31 AM | Epoch[7] (4864/50000):	Loss 0.6961	Accurary 75.35%		Time 0.94s
+03/12 11:27:31 AM | Epoch[7] (9728/50000):	Loss 0.6794	Accurary 76.08%		Time 0.76s
+03/12 11:27:32 AM | Epoch[7] (14592/50000):	Loss 0.6798	Accurary 76.17%		Time 0.81s
+03/12 11:27:33 AM | Epoch[7] (19456/50000):	Loss 0.6764	Accurary 76.33%		Time 0.77s
+03/12 11:27:34 AM | Epoch[7] (24320/50000):	Loss 0.6747	Accurary 76.46%		Time 0.77s
+03/12 11:27:34 AM | Epoch[7] (29184/50000):	Loss 0.6732	Accurary 76.52%		Time 0.78s
+03/12 11:27:35 AM | Epoch[7] (34048/50000):	Loss 0.6691	Accurary 76.63%		Time 0.75s
+03/12 11:27:36 AM | Epoch[7] (38912/50000):	Loss 0.6654	Accurary 76.73%		Time 0.75s
+03/12 11:27:37 AM | Epoch[7] (43776/50000):	Loss 0.6654	Accurary 76.76%		Time 0.70s
+03/12 11:27:37 AM | Epoch[7] (48640/50000):	Loss 0.6601	Accurary 76.98%		Time 0.72s
+03/12 11:27:39 AM | Test Loss 0.6895	Accurary 76.77%		Time 1.11s
+
+03/12 11:27:40 AM | Epoch[8] (4864/50000):	Loss 0.6103	Accurary 78.32%		Time 0.89s
+03/12 11:27:40 AM | Epoch[8] (9728/50000):	Loss 0.6082	Accurary 78.69%		Time 0.72s
+03/12 11:27:41 AM | Epoch[8] (14592/50000):	Loss 0.6166	Accurary 78.65%		Time 0.73s
+03/12 11:27:42 AM | Epoch[8] (19456/50000):	Loss 0.6278	Accurary 78.11%		Time 0.77s
+03/12 11:27:43 AM | Epoch[8] (24320/50000):	Loss 0.6265	Accurary 78.19%		Time 0.77s
+03/12 11:27:43 AM | Epoch[8] (29184/50000):	Loss 0.6264	Accurary 78.35%		Time 0.80s
+03/12 11:27:44 AM | Epoch[8] (34048/50000):	Loss 0.6246	Accurary 78.59%		Time 0.74s
+03/12 11:27:45 AM | Epoch[8] (38912/50000):	Loss 0.6233	Accurary 78.68%		Time 0.72s
+03/12 11:27:46 AM | Epoch[8] (43776/50000):	Loss 0.6217	Accurary 78.75%		Time 0.69s
+03/12 11:27:46 AM | Epoch[8] (48640/50000):	Loss 0.6206	Accurary 78.76%		Time 0.71s
+03/12 11:27:48 AM | Test Loss 0.6955	Accurary 76.55%		Time 1.09s
+
+03/12 11:27:49 AM | Epoch[9] (4864/50000):	Loss 0.5918	Accurary 79.86%		Time 0.92s
+03/12 11:27:49 AM | Epoch[9] (9728/50000):	Loss 0.5841	Accurary 79.93%		Time 0.71s
+03/12 11:27:50 AM | Epoch[9] (14592/50000):	Loss 0.5864	Accurary 79.74%		Time 0.71s
+03/12 11:27:51 AM | Epoch[9] (19456/50000):	Loss 0.5842	Accurary 79.83%		Time 0.74s
+03/12 11:27:52 AM | Epoch[9] (24320/50000):	Loss 0.5815	Accurary 79.92%		Time 0.79s
+03/12 11:27:52 AM | Epoch[9] (29184/50000):	Loss 0.5821	Accurary 79.98%		Time 0.72s
+03/12 11:27:53 AM | Epoch[9] (34048/50000):	Loss 0.5817	Accurary 80.06%		Time 0.75s
+03/12 11:27:54 AM | Epoch[9] (38912/50000):	Loss 0.5829	Accurary 79.98%		Time 0.74s
+03/12 11:27:54 AM | Epoch[9] (43776/50000):	Loss 0.5824	Accurary 80.07%		Time 0.73s
+03/12 11:27:55 AM | Epoch[9] (48640/50000):	Loss 0.5793	Accurary 80.16%		Time 0.72s
+03/12 11:27:57 AM | Test Loss 0.8798	Accurary 70.52%		Time 1.11s
+
+03/12 11:27:58 AM | Epoch[10] (4864/50000):	Loss 0.5691	Accurary 81.05%		Time 0.93s
+03/12 11:27:58 AM | Epoch[10] (9728/50000):	Loss 0.5508	Accurary 81.35%		Time 0.74s
+03/12 11:27:59 AM | Epoch[10] (14592/50000):	Loss 0.5489	Accurary 81.26%		Time 0.75s
+03/12 11:28:00 AM | Epoch[10] (19456/50000):	Loss 0.5482	Accurary 81.20%		Time 0.74s
+03/12 11:28:00 AM | Epoch[10] (24320/50000):	Loss 0.5500	Accurary 81.21%		Time 0.71s
+03/12 11:28:01 AM | Epoch[10] (29184/50000):	Loss 0.5512	Accurary 81.21%		Time 0.73s
+03/12 11:28:02 AM | Epoch[10] (34048/50000):	Loss 0.5466	Accurary 81.29%		Time 0.69s
+03/12 11:28:03 AM | Epoch[10] (38912/50000):	Loss 0.5454	Accurary 81.34%		Time 0.72s
+03/12 11:28:03 AM | Epoch[10] (43776/50000):	Loss 0.5446	Accurary 81.33%		Time 0.72s
+03/12 11:28:04 AM | Epoch[10] (48640/50000):	Loss 0.5445	Accurary 81.27%		Time 0.74s
+03/12 11:28:05 AM | Test Loss 0.6514	Accurary 78.04%		Time 1.10s
+
+03/12 11:28:06 AM | Epoch[11] (4864/50000):	Loss 0.5066	Accurary 82.85%		Time 0.95s
+03/12 11:28:07 AM | Epoch[11] (9728/50000):	Loss 0.5149	Accurary 82.27%		Time 0.72s
+03/12 11:28:08 AM | Epoch[11] (14592/50000):	Loss 0.5196	Accurary 82.21%		Time 0.72s
+03/12 11:28:09 AM | Epoch[11] (19456/50000):	Loss 0.5181	Accurary 82.38%		Time 0.73s
+03/12 11:28:09 AM | Epoch[11] (24320/50000):	Loss 0.5159	Accurary 82.42%		Time 0.72s
+03/12 11:28:10 AM | Epoch[11] (29184/50000):	Loss 0.5175	Accurary 82.35%		Time 0.76s
+03/12 11:28:11 AM | Epoch[11] (34048/50000):	Loss 0.5221	Accurary 82.15%		Time 0.76s
+03/12 11:28:12 AM | Epoch[11] (38912/50000):	Loss 0.5194	Accurary 82.17%		Time 0.75s
+03/12 11:28:12 AM | Epoch[11] (43776/50000):	Loss 0.5186	Accurary 82.22%		Time 0.72s
+03/12 11:28:13 AM | Epoch[11] (48640/50000):	Loss 0.5180	Accurary 82.20%		Time 0.73s
+03/12 11:28:14 AM | Test Loss 0.6212	Accurary 79.01%		Time 1.10s
+
+03/12 11:28:15 AM | Epoch[12] (4864/50000):	Loss 0.4945	Accurary 83.38%		Time 0.86s
+03/12 11:28:16 AM | Epoch[12] (9728/50000):	Loss 0.4891	Accurary 83.72%		Time 0.72s
+03/12 11:28:17 AM | Epoch[12] (14592/50000):	Loss 0.4937	Accurary 83.28%		Time 0.72s
+03/12 11:28:18 AM | Epoch[12] (19456/50000):	Loss 0.4912	Accurary 83.40%		Time 0.77s
+03/12 11:28:18 AM | Epoch[12] (24320/50000):	Loss 0.4897	Accurary 83.43%		Time 0.73s
+03/12 11:28:19 AM | Epoch[12] (29184/50000):	Loss 0.4919	Accurary 83.35%		Time 0.73s
+03/12 11:28:20 AM | Epoch[12] (34048/50000):	Loss 0.4898	Accurary 83.35%		Time 0.72s
+03/12 11:28:20 AM | Epoch[12] (38912/50000):	Loss 0.4925	Accurary 83.31%		Time 0.70s
+03/12 11:28:21 AM | Epoch[12] (43776/50000):	Loss 0.4974	Accurary 83.16%		Time 0.71s
+03/12 11:28:22 AM | Epoch[12] (48640/50000):	Loss 0.4940	Accurary 83.23%		Time 0.71s
+03/12 11:28:23 AM | Test Loss 0.6467	Accurary 78.82%		Time 1.10s
+
+03/12 11:28:24 AM | Epoch[13] (4864/50000):	Loss 0.4686	Accurary 83.77%		Time 0.88s
+03/12 11:28:25 AM | Epoch[13] (9728/50000):	Loss 0.4511	Accurary 84.69%		Time 0.74s
+03/12 11:28:26 AM | Epoch[13] (14592/50000):	Loss 0.4526	Accurary 84.74%		Time 0.69s
+03/12 11:28:26 AM | Epoch[13] (19456/50000):	Loss 0.4596	Accurary 84.56%		Time 0.72s
+03/12 11:28:27 AM | Epoch[13] (24320/50000):	Loss 0.4602	Accurary 84.47%		Time 0.72s
+03/12 11:28:28 AM | Epoch[13] (29184/50000):	Loss 0.4604	Accurary 84.57%		Time 0.73s
+03/12 11:28:28 AM | Epoch[13] (34048/50000):	Loss 0.4634	Accurary 84.46%		Time 0.73s
+03/12 11:28:29 AM | Epoch[13] (38912/50000):	Loss 0.4689	Accurary 84.15%		Time 0.72s
+03/12 11:28:30 AM | Epoch[13] (43776/50000):	Loss 0.4731	Accurary 84.01%		Time 0.72s
+03/12 11:28:31 AM | Epoch[13] (48640/50000):	Loss 0.4702	Accurary 84.07%		Time 0.69s
+03/12 11:28:32 AM | Test Loss 0.5918	Accurary 80.24%		Time 1.12s
+
+03/12 11:28:33 AM | Epoch[14] (4864/50000):	Loss 0.4378	Accurary 85.06%		Time 0.89s
+03/12 11:28:34 AM | Epoch[14] (9728/50000):	Loss 0.4455	Accurary 84.70%		Time 0.74s
+03/12 11:28:34 AM | Epoch[14] (14592/50000):	Loss 0.4457	Accurary 84.70%		Time 0.71s
+03/12 11:28:35 AM | Epoch[14] (19456/50000):	Loss 0.4452	Accurary 84.76%		Time 0.76s
+03/12 11:28:36 AM | Epoch[14] (24320/50000):	Loss 0.4414	Accurary 84.90%		Time 0.72s
+03/12 11:28:37 AM | Epoch[14] (29184/50000):	Loss 0.4416	Accurary 84.88%		Time 0.76s
+03/12 11:28:37 AM | Epoch[14] (34048/50000):	Loss 0.4456	Accurary 84.68%		Time 0.74s
+03/12 11:28:38 AM | Epoch[14] (38912/50000):	Loss 0.4454	Accurary 84.67%		Time 0.74s
+03/12 11:28:39 AM | Epoch[14] (43776/50000):	Loss 0.4469	Accurary 84.61%		Time 0.72s
+03/12 11:28:39 AM | Epoch[14] (48640/50000):	Loss 0.4486	Accurary 84.52%		Time 0.72s
+03/12 11:28:41 AM | Test Loss 0.5463	Accurary 81.72%		Time 1.10s
+
+03/12 11:28:42 AM | Epoch[15] (4864/50000):	Loss 0.4590	Accurary 84.12%		Time 0.87s
+03/12 11:28:42 AM | Epoch[15] (9728/50000):	Loss 0.4563	Accurary 84.29%		Time 0.73s
+03/12 11:28:43 AM | Epoch[15] (14592/50000):	Loss 0.4526	Accurary 84.23%		Time 0.73s
+03/12 11:28:44 AM | Epoch[15] (19456/50000):	Loss 0.4434	Accurary 84.48%		Time 0.77s
+03/12 11:28:45 AM | Epoch[15] (24320/50000):	Loss 0.4435	Accurary 84.59%		Time 0.71s
+03/12 11:28:45 AM | Epoch[15] (29184/50000):	Loss 0.4453	Accurary 84.59%		Time 0.74s
+03/12 11:28:46 AM | Epoch[15] (34048/50000):	Loss 0.4454	Accurary 84.65%		Time 0.74s
+03/12 11:28:47 AM | Epoch[15] (38912/50000):	Loss 0.4429	Accurary 84.74%		Time 0.76s
+03/12 11:28:48 AM | Epoch[15] (43776/50000):	Loss 0.4411	Accurary 84.83%		Time 0.76s
+03/12 11:28:48 AM | Epoch[15] (48640/50000):	Loss 0.4416	Accurary 84.82%		Time 0.73s
+03/12 11:28:50 AM | Test Loss 0.5945	Accurary 80.10%		Time 1.07s
+
+03/12 11:28:51 AM | Epoch[16] (4864/50000):	Loss 0.4150	Accurary 85.96%		Time 0.87s
+03/12 11:28:51 AM | Epoch[16] (9728/50000):	Loss 0.4153	Accurary 86.01%		Time 0.71s
+03/12 11:28:52 AM | Epoch[16] (14592/50000):	Loss 0.4114	Accurary 86.33%		Time 0.73s
+03/12 11:28:53 AM | Epoch[16] (19456/50000):	Loss 0.4121	Accurary 86.14%		Time 0.76s
+03/12 11:28:54 AM | Epoch[16] (24320/50000):	Loss 0.4160	Accurary 85.91%		Time 0.73s
+03/12 11:28:54 AM | Epoch[16] (29184/50000):	Loss 0.4149	Accurary 85.99%		Time 0.74s
+03/12 11:28:55 AM | Epoch[16] (34048/50000):	Loss 0.4189	Accurary 85.78%		Time 0.69s
+03/12 11:28:56 AM | Epoch[16] (38912/50000):	Loss 0.4189	Accurary 85.79%		Time 0.71s
+03/12 11:28:56 AM | Epoch[16] (43776/50000):	Loss 0.4192	Accurary 85.80%		Time 0.69s
+03/12 11:28:57 AM | Epoch[16] (48640/50000):	Loss 0.4178	Accurary 85.85%		Time 0.71s
+03/12 11:28:58 AM | Test Loss 0.5617	Accurary 81.56%		Time 1.04s
+
+03/12 11:28:59 AM | Epoch[17] (4864/50000):	Loss 0.4257	Accurary 85.45%		Time 0.89s
+03/12 11:29:00 AM | Epoch[17] (9728/50000):	Loss 0.4029	Accurary 86.25%		Time 0.71s
+03/12 11:29:01 AM | Epoch[17] (14592/50000):	Loss 0.4032	Accurary 86.31%		Time 0.72s
+03/12 11:29:01 AM | Epoch[17] (19456/50000):	Loss 0.4055	Accurary 86.14%		Time 0.77s
+03/12 11:29:02 AM | Epoch[17] (24320/50000):	Loss 0.4081	Accurary 86.04%		Time 0.71s
+03/12 11:29:03 AM | Epoch[17] (29184/50000):	Loss 0.4050	Accurary 86.14%		Time 0.74s
+03/12 11:29:04 AM | Epoch[17] (34048/50000):	Loss 0.4017	Accurary 86.32%		Time 0.70s
+03/12 11:29:04 AM | Epoch[17] (38912/50000):	Loss 0.4005	Accurary 86.42%		Time 0.72s
+03/12 11:29:05 AM | Epoch[17] (43776/50000):	Loss 0.3992	Accurary 86.43%		Time 0.75s
+03/12 11:29:06 AM | Epoch[17] (48640/50000):	Loss 0.4008	Accurary 86.41%		Time 0.76s
+03/12 11:29:07 AM | Test Loss 0.6056	Accurary 80.48%		Time 1.10s
+
+03/12 11:29:08 AM | Epoch[18] (4864/50000):	Loss 0.3927	Accurary 86.82%		Time 0.92s
+03/12 11:29:09 AM | Epoch[18] (9728/50000):	Loss 0.3844	Accurary 86.59%		Time 0.74s
+03/12 11:29:10 AM | Epoch[18] (14592/50000):	Loss 0.3926	Accurary 86.52%		Time 0.74s
+03/12 11:29:10 AM | Epoch[18] (19456/50000):	Loss 0.3950	Accurary 86.45%		Time 0.79s
+03/12 11:29:11 AM | Epoch[18] (24320/50000):	Loss 0.3937	Accurary 86.52%		Time 0.75s
+03/12 11:29:12 AM | Epoch[18] (29184/50000):	Loss 0.3897	Accurary 86.68%		Time 0.73s
+03/12 11:29:13 AM | Epoch[18] (34048/50000):	Loss 0.3939	Accurary 86.52%		Time 0.72s
+03/12 11:29:13 AM | Epoch[18] (38912/50000):	Loss 0.3948	Accurary 86.48%		Time 0.72s
+03/12 11:29:14 AM | Epoch[18] (43776/50000):	Loss 0.3969	Accurary 86.44%		Time 0.72s
+03/12 11:29:15 AM | Epoch[18] (48640/50000):	Loss 0.3968	Accurary 86.40%		Time 0.74s
+03/12 11:29:16 AM | Test Loss 0.5079	Accurary 83.29%		Time 1.12s
+

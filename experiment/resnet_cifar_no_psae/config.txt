@@ -1,0 +1,42 @@
+2143-10-17-03:02:46
+
+split_optimizer: False
+warm_up: False
+gpus: [0]
+data_set: cifar10
+data_path: ./DATA/
+job_dir: ./experiment/resnet_cifar_no_psae
+reset: False
+resume: None
+refine: None
+arch: resnet_cifar
+cfg: resnet110
+num_epochs: 150
+train_batch_size: 256
+eval_batch_size: 256
+momentum: 0.9
+lr: 0.1
+lr_decay_step: [50, 100]
+weight_decay: 0.0001
+random_rule: l1_pretrain
+test_only: False
+random_enable: False
+pso_model: pretrain_model/resnet_110.pt
+calfitness_epoch: 2
+max_cycle: 30
+max_preserve: 9
+min_preserve: 3
+partical_number: 10
+partical_dimension: 54
+rescale_factor: 1
+max_vel: 2
+pso_inertia: [0.9, 0.4]
+best_partical: [5, 3, 5, 9, 7, 8, 9, 9, 3, 9, 9, 9, 9, 9, 3, 9, 6, 9, 3, 9, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 9, 7, 3, 9, 9, 3, 6, 9, 6, 8, 9, 3, 3, 9, 9, 3, 9, 9, 3, 9, 3, 9, 3, 8]
+partical_change_num: 8
+individual_factor: 1.2
+global_factor: 1.5
+FLOPs_ratio: 0.5
+parms_ratio: 0.5
+pase_enable: False
+approcimate_rate: 0.2
+
